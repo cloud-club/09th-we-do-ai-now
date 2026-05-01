@@ -1,12 +1,57 @@
 # We Do AI Now 
 **AI 시대 IT 엔지니어의 업무 활용 전략을 설계하고, 실질적인 결과물로 구체화하는 스터디**
 
----
+
+## Contributors
+
+<p align="center">
+  <a href="https://github.com/NOOJU">
+    <img src="https://github.com/NOOJU.png" width="100" height="100" alt="@NOOJU">
+  </a>
+  <a href="https://github.com/Cybecho">
+    <img src="https://github.com/Cybecho.png" width="100" height="100" alt="@Cybecho">
+  </a>
+  <a href="https://github.com/DahyeonWoo">
+    <img src="https://github.com/DahyeonWoo.png" width="100" height="100" alt="@DahyeonWoo">
+  </a>
+  </a>
+  <a href="https://github.com/geeoneee">
+    <img src="https://github.com/geeoneee.png" width="100" height="100" alt="@geeoneee">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yheeeon">
+    <img src="https://github.com/yheeeon.png" width="100" height="100" alt="@yheeeon">
+  <a href="https://github.com/600gramSik">
+    <img src="https://github.com/600gramSik.png" width="100" height="100" alt="@600gramSik">
+  </a>
+  </a>
+  <a href="https://github.com/ansdudgh98">
+    <img src="https://github.com/ansdudgh98.png" width="100" height="100" alt="@ansdudgh98">
+  </a>
+  <a href="https://github.com/ur2e">
+    <img src="https://github.com/ur2e.png" width="100" height="100" alt="@ur2e">
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://github.com/NOOJU">@NOOJU</a> •
+    <a href="https://github.com/Cybecho">@Cybecho</a> •
+    <a href="https://github.com/DahyeonWoo">@DahyeonWoo</a> •
+    <a href="https://github.com/geeoneee">@geeoneee</a> •
+    <a href="https://github.com/yheeeon">@yheeeon</a> •
+    <a href="https://github.com/600gramSik">@600gramSik</a> •
+    <a href="https://github.com/ansdudgh98">@ansdudgh98</a> •
+    <a href="https://github.com/ur2e">@ur2e</a>
+  </sub>
+</p>
+
 
 ## 1. 스터디 개요
 
-CloudClub AI Study는 단순히 AI 도구를 체험하는 수준을 넘어,  
-**IT 엔지니어가 자신의 직무와 업무 맥락에서 AI를 어떻게 전략적으로 활용할 수 있을지 설계하는 것을 목표로 하는 스터디**입니다.
+We Do AI Now 스터디는 **IT 엔지니어가 자신의 직무와 업무 맥락에서 AI를 어떻게 전략적으로 활용할 수 있을지 설계하는 것을 목표로 하는 스터디**입니다.
 
 최근 AI 기술은 산업 구조와 업무 방식 전반에 빠른 변화를 일으키고 있습니다.  
 그러나 많은 경우 AI는 일회성 실험이나 단순한 도구 활용에 머무르며, 실제 업무에 지속적으로 적용 가능한 형태로 정리되지 못하고 있습니다.
